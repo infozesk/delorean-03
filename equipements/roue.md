@@ -15,3 +15,4 @@ Hill valley pneumatics
 ## Bugs connus
 
 aucuns
+mode hiver activé
