@@ -12,3 +12,4 @@
 - un selecteur temporel
 - un reacteur
 - plusieurs equipements
+- correction selecteur temporel
